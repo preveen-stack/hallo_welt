@@ -1,0 +1,56 @@
+#include <stdio.h>
+
+#define automatisch     auto
+#define unterbrechen    break
+#define fall            case
+#define zeichen         char
+#define konstant        const
+#define fortsetzen      continue
+#define standard        default
+#define wiederholen     do
+#define doppelt         double
+#define sonst           else
+#define aufzaehlung     enum
+#define extern          extern
+#define gleitkomma      float
+#define fuer            for
+#define gehezu          goto
+#define wenn            if
+#define ganzzahl        int
+#define lang            long
+#define registrieren    register
+#define rueckgabe       return
+#define kurz            short
+#define vorzeichen      signed
+#define groesse         sizeof
+#define statisch        static
+#define struktur        struct
+#define umschalten      switch
+#define typdefinieren   typedef
+#define vereinigung     union
+#define ohnevorzeichen  unsigned
+#define leere           void
+#define fluechtig       volatile
+#define solange         while
+
+#define haupt_funktion main
+
+#define drucken printf
+#define einlesen scanf
+#define öffnen fopen
+#define schließen fclose
+#define einlesen_zeichen fgetc
+#define schreiben_zeichen fputc
+#define einlesen_zeichenkette fgets
+#define schreiben_zeichenkette fputs
+#define kopieren_zeichenkette strcpy
+#define verketten_zeichenketten strcat
+#define vergleichen_zeichenketten strcmp
+#define berechnen_länge_zeichenkette strlen
+#define zu_ganzzahl atoi
+#define zu_fließkommazahl atof
+#define zufällige_zahl rand
+#define aktuelle_zeit time
+#define anhalten sleep
+#define datei_existiert access
+#define dateigröße stat
