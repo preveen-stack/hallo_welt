@@ -6,6 +6,19 @@ Dies ist ein Beispielprogramm, das eine Begrüßungsnachricht auf Deutsch ausgib
 
 Das Programm gibt die Nachricht "Hallo, Welt!" in der Konsole aus.
 
+## Programm
+```
+#include "schlusselworter.h"
+
+ganzzahl haupt_funktion() {
+    // Ausgabe des Begrüßungstextes
+    drucken("Hallo, Welt!\n");
+
+    // Rückgabewert 0 signalisiert erfolgreiche Ausführung
+    rueckgabe 0;
+}
+```
+
 ## Kompilieren und Ausführen
 
 1. Stelle sicher, dass ein C-Compiler auf deinem System installiert ist.
