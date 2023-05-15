@@ -1,4 +1,4 @@
-#include "shlusselworter.h"
+#include "schlusselworter.h"
 
 ganzzahl haupt_funktion() {
     // Ausgabe des Begrüßungstextes
